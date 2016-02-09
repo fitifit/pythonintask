@@ -5,9 +5,9 @@
 
 **Исходный код: **
 [https://github.com/askras/pythonintask ](https://github.com/askras/pythonintask)
+
 **Собранная версия: **
 [https://www.gitbook.com/book/askras/pythonintask](https://www.gitbook.com/book/askras/pythonintas)
-
 
 **Распространяется под лицензией: **
 [http://opensource.org/licenses/Apache-2.0](Apache License, Version 2.0)
