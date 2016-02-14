@@ -175,7 +175,9 @@ git push origin --delete <ИМЯ-ВАШЕЙ-ВЕТКИ>
 
 # Ссылки
 [Официальный сайт python ](https://www.python.org/)
+
 [Официальный сайт git](http://git-scm.com)
+
 [Книга ProGit (ru)](https://progit.org/translations/lang/ru)
 
 # Книги
