@@ -49,9 +49,23 @@
 
 ## Отправка Pull request'а
 
-#### Шаг 1. Создаем аккаунт на [Github.com](https://github.com)
+#### Шаг 1. Установливаем и настраиваем Git
+
+Прежде всего создаем аккаунт на [Github.com](https://github.com)
+
+Далее скачиваем и устанавливаем [git](http://git-scm.com/download)
+
+Далее, необходимо сделать небольшую настройку Вашего Git, для того, 
+чтобы при отправке коммитов, отображалось ваше корректное имя.
+Для это достаточно выполнить данные команды:
+
+```
+git config --global user.name "Ваше Имя"
+git config --global user.email you@example.com
+```
 
 #### Шаг 2. Устанавливаем  все необходимое ПО
+
 
 #### Шаг 3. Создаём копию (Fork) репозитория проекта
 
@@ -69,9 +83,10 @@ git clone https://github.com/<Ваше-GitHub-имя>/pythonintask.git
 
 Далее вам необходимо добавить ветку upstream для проекта, которая будет ссылаться на базовый репозиторий 
 
+```
 cd pythonintask
 git remote add upstream https://github.com/fitifit/pythonintask.git
-
+```
 
 
 
