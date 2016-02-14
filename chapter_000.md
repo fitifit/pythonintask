@@ -11,3 +11,4 @@
 
 ## Репозиторий с решениями
 
+Все решения должны быть отправлены в виде Pull request'а на Github в специально созданный репозиторий [https://github.com/fitifit/pythonintask](https://github.com/fitifit/pythonintask)
