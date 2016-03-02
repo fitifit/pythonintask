@@ -62,7 +62,13 @@
 При необходимости можно также установить какую-либо графическую оболочку для работы с Git: [http://git-scm.com/downloads/guis](http://git-scm.com/downloads/guis).
 Однако, в рамках данного пособия будут рассматриваться только приемы работы с Git через интерфейс командной строки.
 
-1. Интерпретатор python с интегрированной средой разработки IDLE [https://www.python.org/downloads/release/python-351/](https://www.python.org/downloads/release/python-351/)
+1. Интерпретатор python с интегрированной средой разработки IDLE: [https://www.python.org/downloads/release/python-351/](https://www.python.org/downloads/release/python-351/)
+
+1. Текстовый редактор или интегрированная среда разработки, например:
+    * Notepad++: [https://notepad-plus-plus.org/download](https://notepad-plus-plus.org/download)
+    * Sublime Text 3: [http://www.sublimetext.com/3](http://www.sublimetext.com/3)
+    * JetBrains PyCharm: [https://www.jetbrains.com/pycharm/download](https://www.jetbrains.com/pycharm/download)
+
 
 #### Шаг 3. Создаём копию (Fork) репозитория проекта
 
