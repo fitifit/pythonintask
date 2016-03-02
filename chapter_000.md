@@ -58,7 +58,7 @@
 
 #### Шаг 2. Устанавливаем  все необходимое ПО
 
-1. Система контроля версий [(http://git-scm.com/download](http://git-scm.com/download). 
+1. Система контроля версий Git: [http://git-scm.com/download](http://git-scm.com/download). 
 При необходимости можно также установить какую-либо графическую оболочку для работы с Git^ [http://git-scm.com/downloads/guis](http://git-scm.com/downloads/guis).
 Однако, в рамках данного пособия будут рассматриваться только приемы работы с Git через интерфейс командной строки.
 
