@@ -53,15 +53,13 @@
 
 #### Шаг 1. Регистрируемс на  GitHub
 
-Прежде всего создаем аккаунт на [Github.com](https://github.com)
-
-Далее скачиваем и устанавливаем [git](http://git-scm.com/download)
+Прежде всего создаем аккаунт на Github: [https://github.com](https://github.com)
 
 
 #### Шаг 2. Устанавливаем  все необходимое ПО
 
-1. Система контроля версий [git](http://git-scm.com/download). 
-При необходимости можно также установить какую-либо графическую оболочку для работы с Git.
+1. Система контроля версий [(http://git-scm.com/download](http://git-scm.com/download). 
+При необходимости можно также установить какую-либо графическую оболочку для работы с Git^ [http://git-scm.com/downloads/guis](http://git-scm.com/downloads/guis).
 Однако, в рамках данного пособия будут рассматриваться только приемы работы с Git через интерфейс командной строки.
 
 1. Интерпретатор python с интегрированной средой разработки IDLE [https://www.python.org/downloads/release/python-351/](https://www.python.org/downloads/release/python-351/)
