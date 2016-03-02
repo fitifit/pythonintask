@@ -57,14 +57,6 @@
 
 Далее скачиваем и устанавливаем [git](http://git-scm.com/download)
 
-Далее, необходимо сделать небольшую настройку Вашего Git, для того, 
-чтобы при отправке коммитов, отображалось ваше корректное имя.
-Для это достаточно выполнить данные команды:
-
-```
-git config --global user.name "Ваше Имя"
-git config --global user.email you@example.com
-```
 
 #### Шаг 2. Устанавливаем  все необходимое ПО
 
@@ -91,6 +83,24 @@ cd pythonintask
 git remote add upstream https://github.com/fitifit/pythonintask.git
 ```
 
+Далее, необходимо сделать небольшую настройку Вашего Git, для того, 
+чтобы при отправке коммитов, отображалось ваше корректное имя.
+Для это достаточно выполнить данные команды.
+
+Если вы работаете на собственном компьютере:
+```
+git config --global user.name "Ваше Имя"
+git config --global user.email you@example.com
+```
+
+или 
+
+
+```
+git config --local user.name "Ваше Имя"
+git config --local user.email you@example.com
+```
+если вы работаете на общедоступном компьютере.
 
 #### Шаг 4. Работаем с кодом
 
