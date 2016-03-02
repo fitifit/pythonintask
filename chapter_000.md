@@ -51,7 +51,7 @@
 
 ## Отправка Pull request'а
 
-#### Шаг 1. Регистрируемс на  GitHub
+#### Шаг 1. Регистрируемся на  GitHub
 
 Прежде всего создаем аккаунт на Github: [https://github.com](https://github.com)
 
