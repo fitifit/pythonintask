@@ -68,6 +68,7 @@ git config --global user.email you@example.com
 
 #### Шаг 2. Устанавливаем  все необходимое ПО
 
+1. Интерпретатор python с интегрированной средой разработки IDLE [https://www.python.org/downloads/release/python-351/](https://www.python.org/downloads/release/python-351/)
 
 #### Шаг 3. Создаём копию (Fork) репозитория проекта
 
