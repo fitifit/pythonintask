@@ -11,7 +11,7 @@ print("Программа случайным образом отображает
 
 animal = random.randint(1,4)
 
-print('\nКоловок встретил', end=' ')
+print('\nКолобок встретил', end=' ')
 
 if animal == 1 :
     print('зайца')
