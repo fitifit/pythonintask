@@ -21,12 +21,12 @@ elif animal_numbers == 3 :
 elif animal_numbers == 4 :
     animal = 'Лиса'
 
-answer = input('Назовите одно из животных, встреченных Колобком в лесу: ')
+answer = input('\nНазовите одно из животных, встреченных Колобком в лесу: ')
 
 if answer == animal :
-    print('Вы угадали!')
+    print('\nВы угадали!')
 else :
-    print('Вы не угадали!!!')
+    print('\nВы не угадали!!!')
     print('Правильный ответ: ', animal)
 
 input("\n\nНажмите Enter для выхода.")
