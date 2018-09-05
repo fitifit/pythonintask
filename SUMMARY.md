@@ -9,5 +9,5 @@
 * [Функции](chapter_050.md)
 * [Теоретические вопросы](quest.md)
 * [Варианты проектов](varianti-proektov.md)
-* [!!!Задание для СДО](zadanie-dlya-sdo.md)
+* [!!!Дополнительные задания](zadanie-dlya-sdo.md)
 
