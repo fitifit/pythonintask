@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Перед работой](chapter_000.md)
@@ -9,5 +9,5 @@
 * [Функции](chapter_050.md)
 * [Теоретические вопросы](quest.md)
 * [Варианты проектов](varianti-proektov.md)
-* [!!!Дополнительные задания](zadanie-dlya-sdo.md)
+* [!!!Задание для СДО](zadanie-dlya-sdo.md)
 
